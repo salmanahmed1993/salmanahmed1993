@@ -1,6 +1,8 @@
 ### Hi there 👋 Please download these files containing paper implementation 
 
-### This file contain code implementation of opensource dataset.
+### This file contain code implementation.
+
+### Open Source Dataset can be downloaded from https://github.com/karolzak/support-tickets-classification
 
 ### Due to copyright confidential dataset cannot be released. 
 <!--
